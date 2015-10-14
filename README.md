@@ -11,4 +11,6 @@ An ambicious start is to record at least 3~5 abstracts of selected papers from t
 5, IMC
 6, SIGMETRICS
 
-Keep practicing till can't live without this habit
+In this item(abstract recording), please keep in mind to learn how to highly abstract a good research paper
+
+Keep practicing till I can't live without this habit
